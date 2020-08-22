@@ -8,7 +8,7 @@ Notícias Cidade é um site fictício de notícias criado no Curso de Desenvolvi
 ### 🎨 Detalhe
 
 Nesse site já é utilizado um design mais profissional e também duas barras de navegação, uma horizontal e uma vertical.
-<br>
+
 Não há resposividade sendo utilizada no site.
 
 <hr>
@@ -21,5 +21,7 @@ Neste site foi utilizado as seguintes tecnologias
 - [CSS](https://www.w3schools.com/css/)
 
 ### :airplane: Acesse o site
+
+Hospedado no Netlify
 
 https://noticias-cidade-gsj.netlify.app/
